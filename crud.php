@@ -16,7 +16,7 @@
    <div class="container"> 
    	<div class="row">
    	<div class="col-md-12 mt-5">
-  			<h1 style="text-align: center;">PHP OOP CRUD</h1>
+  			<h1 style="text-align: center;">PHP OOP CRUD model one</h1>
   			<hr style="text-align: center;" />
    		</div>
    	</div> 	
